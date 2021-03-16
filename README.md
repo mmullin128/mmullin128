@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mmullin128
+- 👀 I’m interested in programming & software development in general, but specifically game & web development. I am currently most comfortable in Python & Javascript but am always learning.
+- 🌱 I’m currently learning full stack development with Javascript and Python
+- 💞️ I’m looking to collaborate on any project within my skill set. I love to program and will be happy to collaborate on anything.
+- 📫 How to reach me: You can reach me right here on github.
